@@ -1,2 +1,1 @@
-# cifar
-Here are some codes for cifar
+Here are some codes for both cifar100 and cifar10, and all of them can achieve a good accuracy. The best performance here on cifar100 is 77% and on cifar10 is 93%. Each code has a readme. Welcome to help me complete the codes.

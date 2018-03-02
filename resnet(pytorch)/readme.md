@@ -1,0 +1,1 @@
+In torchvision, the resnet is used for imagenet, which size is 224X224. I have changed the resnet code in torchvision to adapt cifar100(you can easily change it to adapt cifar10). In addition, it can achieve `76%` accuracy.

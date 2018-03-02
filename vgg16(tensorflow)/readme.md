@@ -1,0 +1,1 @@
+This code come from BIGBALLON's github. I have changed the code to try using word embedding as the target. Of cource, you can use this to run cifar100 and cifar10. The accuracy is `71%` and `93%`.

@@ -1,0 +1,1 @@
+This code comes from tensorflow example. I have try the `cifar10_main.py`, and it can achieve `93%` accuracy.
